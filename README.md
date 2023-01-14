@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielB19
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in playing sports and music instruments
 - 🌱 I’m currently learning Java, Python, unity, and C#.
 - 💞️ I’m looking to collaborate on ...
